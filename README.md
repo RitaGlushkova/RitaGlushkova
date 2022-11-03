@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Margarita</h1>
 <h3 align="center">Software Engineer based in London</h3>
 
-- 🌱 I’m currently learning **TypeScript, Redux**
+- 🌱 I’m currently learning **Go, AWS, SRE**
 
-- 💬 Ask me about **React, HTML/CSS, Express.js, PostgreSQL**
+- 💬 Ask me about **React, HTML/CSS, Express.js, PostgreSQL, TypeScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
